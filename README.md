@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krnozx
-- 👀 I’m interested in  data scinece 
+- 👀 I’m interested in  data sciece 
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach 
